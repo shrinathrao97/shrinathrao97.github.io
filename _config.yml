@@ -12,7 +12,7 @@ include:
  - _posts
  - _layouts
  - _data
-
+ - _img
 
 
 relative_permalinks: false
