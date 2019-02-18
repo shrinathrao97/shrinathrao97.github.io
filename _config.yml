@@ -14,7 +14,6 @@ include:
  - _data
  - _img
 
-
 relative_permalinks: false
 # Site settings
 # These are used to personalize your new site. If you look in the HTML files,
