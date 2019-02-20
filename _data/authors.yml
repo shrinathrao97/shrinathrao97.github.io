@@ -1,6 +1,6 @@
 Shrinath Rao:
   name: "Shrinath Rao"
-  bio: "Outgoing, passionate and hardworking engineer and designer looking for a career in creative programming"
+  bio: "An engineer and game dev looking to share his thoughts on the tech and game industries!"
   avatar: "_img/avatar.jpg"
   links:
     - label: "Email"
@@ -9,3 +9,15 @@ Shrinath Rao:
     - label: "Twitter"
       icon: "fab fa-twitter-square"
       url: "https://twitter.com/Kshaya_Shri"
+
+Thomas Jaeger:
+  name: "Thomas Jaeger"
+  bio: ""
+  avatar: ""
+  links:
+    - label: "Email"
+      icon: "far fa-envelope"
+      url: ""
+    - label: "Twitter"
+      icon: "fab fa-twitter-square"
+      url: ""
