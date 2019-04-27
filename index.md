@@ -7,3 +7,4 @@ header:
 	overlay_image: /_img/splash.jpg
 excerpt: Welcome to my game design blog!
 ---
+

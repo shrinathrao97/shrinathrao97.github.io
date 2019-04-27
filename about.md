@@ -1,5 +1,0 @@
----
-layout: about 
-permalink: /about
----
-
