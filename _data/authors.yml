@@ -9,15 +9,3 @@ Shrinath Rao:
     - label: "Twitter"
       icon: "fab fa-twitter-square"
       url: "https://twitter.com/Kshaya_Shri"
-
-Thomas Jaeger:
-  name: "Thomas Jaeger"
-  bio: ""
-  avatar: ""
-  links:
-    - label: "Email"
-      icon: "far fa-envelope"
-      url: ""
-    - label: "Twitter"
-      icon: "fab fa-twitter-square"
-      url: ""
