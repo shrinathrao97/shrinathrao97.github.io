@@ -9,7 +9,7 @@ excerpt: Welcome to my game design blog!
 feature_row:
   - image_path: /_img/blogicon.jpg
     title: "Blog"
-    excerpt: "Read about my thoughts on the game industry and more!"
+    excerpt: "Read about my thoughts on game development and the industry!"
     btn_label: "Read More"
     btn_class: "btn--primary"
     url: "https://shrinathrao97.github.io/blog"
