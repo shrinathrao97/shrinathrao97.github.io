@@ -3,7 +3,7 @@ layout: splash
 permalink: /
 header:
   overlay_color: "#000"
-  overlay_filter: "0.6"
+  overlay_filter: "0.3"
   overlay_image: /_img/splash.jpg
 excerpt: Welcome to my game design blog!
 feature_row:
