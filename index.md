@@ -16,7 +16,7 @@ feature_row:
   - image_path: /_img/projects.jpg
     url: "https://shrinathro97.github.io/projects"
     title: "Projects"
-    excerpt: "Currently under development, but check back to see my projects!"
+    excerpt: "Currently under development, but check back later to see my projects!"
     btn_label: "Read More"
     btn_class: "btn--primary"
   - image_path: /_img/about.jpg
