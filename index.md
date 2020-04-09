@@ -14,7 +14,7 @@ feature_row:
     btn_class: "btn--primary"
     url: "https://shrinathrao97.github.io/blog"
   - image_path: /_img/projects.jpg
-    url: "https://shrinathro97.github.io/projects"
+    url: "https://shrinathrao97.github.io/projects"
     title: "Projects"
     excerpt: "Currently under development, but check back later to see my projects!"
     btn_label: "Read More"
