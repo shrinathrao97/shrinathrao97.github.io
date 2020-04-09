@@ -6,10 +6,10 @@ author_profile: true
 author: "Shrinath Rao"
 permalink: /about
 ---
-Hiya, call me Shri! I'm currently a senior at the University of Texas at Dallas doing a double major in Arts in Technology (with a heavy focus in game design) and Computer Science. Post graduation, i'd like to work engineering or mechanics/systems design on games!
+Hiya, call me Shri! I've just finished both my ATEC (Arts in Technology) and my Computer Science degrees at the University of Texas at Dallas and am currently seeking both engineering and game industry related opportunities!
 
-This blog is meant to be a way for me to keep in touch with both the game design industry, and my fellow developer friends wherever we all end up after college, it represents our individual views on subjects, and games that we're excited for. I especially really wanted to keep a focus on including everyones individual views here in every opinionated post since I believe that games jounalism doesn't attack a game from multiple viewpoints too well these days! 
+This small blog is meant to be a corner of the internet to host everything from my work and projects, to small blurbs on things game design related.
 
-Hope you'll stick around!
+Thanks for sticking around!
 
 -Kshaya/Shri
