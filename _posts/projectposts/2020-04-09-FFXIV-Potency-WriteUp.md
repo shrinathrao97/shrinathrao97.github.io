@@ -7,6 +7,8 @@ author_profile: true
 author: "Shrinath Rao"
 permalink: /:categories/:title
 ---
+The following is a long write up I did after getting interested in the potency system from FFXIV. I analyze raw vs. potency values and why I think that FFXIV's system is well designed.
+
 Today I’d like to talk about RPG (role-playing game) stat systems. These systems come in many shapes and sizes, but their purpose mostly remains the same philosophically. They aim to represent and quantify a player character’s familiarity with different worldly skills, and allow the player to gauge the impact of certain actions. Now that I’m sitting at ~500 hours of in-game time with FFXIV, I’ve begun noticing interesting things about it, like the very interesting and well implemented potency system the game uses. 
 
 But before I dive into the nitty-gritty, let’s take five. A lot of people have played D&D (Dungeons & Dragons) or other role-playing tabletop games. A lot of these games, because of their history and intimate connections to designer’s lives serve as sources of inspiration for different games and systems. In fact, I had a professor who once said “Most systems for video games are an abstraction of other traditional tabletop systems.” The more I thought about this, I actually couldn’t think of a counter example without it feeling like something to which my professor could rightfully respond, “I did say most, and even then that is such a technicality... you get what I mean to say.”
