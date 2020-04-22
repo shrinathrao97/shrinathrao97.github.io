@@ -15,7 +15,7 @@ I had very little experience with Unreal since in school we were taught to proto
 Being a coder, I had very little experience with shader apart from making very basic ones like fresnel shaders to highlight players or enemies. This one was particularly complex to me as a beginner and was a fun problem to tackle. To help me, I used this free <a href ="https://www.youtube.com/watch?v=uQG0SWv5lbw&list=PL78XDi0TS4lFlOVKsNC6LR4sCQhetKJqs">course</a>.
 
 
-If you'd like to read about my process here's a <a href="https://shrinathrao97.github.io/blog/WIP-FFXIV-Ninja">WIP!</a>
+If you'd like to read about my process here's a <a href="https://shrinathrao97.github.io/blog/Warpstrike">WIP!</a>
 
 <!--
 INSERT GIF HERE

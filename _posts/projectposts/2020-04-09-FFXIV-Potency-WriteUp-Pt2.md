@@ -13,7 +13,7 @@ Do I really need to look at my abilities and say, “Oh this does 20% of your we
 
 Let’s just say for a second that while my weapon damage is solid, my magic damage stat is abysmal. All of a sudden, even though the number “50” is larger than “20”, it could be that more of the abilities' damage is coming from my weapon than my ability. Being a weapon damage focused character, or having a weapon- focused “build”, this ability could actually be worse than the other 4 options I could be using in my rotation (the sequence of abilities a player uses in a fight). There are resources to manage, this ability might just be a waste of time and mana (an ability usually will require “x” amount of mana to be able to be used) and, without telling my friends to wait for 30 minutes while I crunch the numbers on all my abilities, I wouldn’t be any wiser. While some people might find that fun, how much of that is relevant to the average player? 
 
-Now let's take a look at an FFXIV  ability for Ninja (Aeolian Edge):
+Now let's take a look at an FFXIV ability for Ninja (Aeolian Edge):
 
 Delivers an attack with a potency of 100.
 160 when executed from a target's rear.
