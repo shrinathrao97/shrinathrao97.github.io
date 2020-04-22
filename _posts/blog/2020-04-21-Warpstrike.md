@@ -87,8 +87,10 @@ void AMyCharacter::SelectEnemy()
 	Target->TargetArrow->SetText("^");
 	Target->TargetArrow->SetRelativeLocation(FVector(0.0f, 0.0f, 80.0f));
 }
+```
 
-To handle the warp
+
+To handle the warp:
 ```
 //Warp Handling
 void AMyCharacter::Warp()
