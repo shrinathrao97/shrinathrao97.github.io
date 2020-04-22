@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "FFXIV Ninja Platformer"
-date:   2019-06-01 16:32:56 -0600
+date:   2020-03-15 16:32:56 -0600
 categories: [projects] 
 author_profile: true
 author: "Shrinath Rao"
