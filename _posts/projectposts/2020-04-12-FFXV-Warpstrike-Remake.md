@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "FFXV Warpstrike Remake"
-date:   2020-l6-01 16:32:56 -0600
+date:   2020-03-12 16:32:56 -0600
 categories: [projects] 
 author_profile: true
 author: "Shrinath Rao"
