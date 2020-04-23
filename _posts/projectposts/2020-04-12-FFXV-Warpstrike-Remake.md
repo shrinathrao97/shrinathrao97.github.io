@@ -17,8 +17,6 @@ Being a coder, I had very little experience with shader apart from making very b
 
 If you'd like to read about my process here's a <a href="https://shrinathrao97.github.io/blog/Warpstrike">WIP!</a>
 
-<!--
-INSERT GIF HERE
 
--->
+![image-center](../_img/Warpstrike/warp.gif){: .align-center}
 
