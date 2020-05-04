@@ -1,15 +1,16 @@
 ---
 layout: single 
 title:  "About Me"
-date:   2019-03-13 16:32:56 -0600
+date:   2020-05-04 16:32:56 -0600
 author_profile: true
 author: "Shrinath Rao"
 permalink: /about
 ---
-Hiya, call me Shri! I've just finished both my ATEC (Arts in Technology) and my Computer Science degrees at the University of Texas at Dallas and am currently seeking both engineering and game industry related opportunities!
+Hiya, my friends call me Shri!
 
-This small blog is meant to be a corner of the internet to host everything from my work and projects, to small blurbs on things game design related.
+I've just finished my double degree in ATEC (Arts and Technology) and Computer Science at the University of Texas at Dallas! I'm currently looking for opportunities to help further my dream goals to pursue a career in creative programming. 
 
-Thanks for sticking around!
+Here is a link to my [resume]({{site.url}}/_img/ShrinathResume.pdf).
 
--Kshaya/Shri
+
+-Shri (Kshaya in Game Land)

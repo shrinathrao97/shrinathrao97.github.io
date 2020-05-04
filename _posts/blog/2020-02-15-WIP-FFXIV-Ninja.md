@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "WIP: FFXIV Ninja Platformer"
+title:  "FFXIV Ninja Platformer"
 date:   2020-03-25 16:32:56 -0600
 categories: [blog] 
 author_profile: true

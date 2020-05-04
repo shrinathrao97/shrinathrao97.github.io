@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "WIP: FFXV Warpstrike"
+title:  "FFXV Warpstrike"
 date:   2020-04-03 16:32:56 -0600
 categories: [blog] 
 author_profile: true
