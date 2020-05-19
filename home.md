@@ -10,7 +10,7 @@ Hiya, my friends call me Shri!
 
 I've just finished my double degree in ATEC (Arts and Technology) and Computer Science at the University of Texas at Dallas! I'm currently looking for opportunities to help further my dream goals to pursue a career in creative programming. 
 
-Here is a link to my [resume]({{site.url}}/_img/ShrinathResume.pdf).
+Here is a link to my [resume]({{site.url}}/_img/Shrinath_Resume.pdf).
 
 
 -Shri (Kshaya in Game Land)
