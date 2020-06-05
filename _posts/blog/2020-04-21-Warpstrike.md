@@ -63,7 +63,7 @@ void AMyCharacter::SelectEnemy()
 {
 	AEnemy* closest = nullptr;
 
-	for (int i = 0; i < enemies.Max(); i++) {
+	for (int i = 0; i < enemies.Max() + 1; i++) {
 
 		if (closest == nullptr) {
 		
