@@ -17,3 +17,5 @@ I normally try to write my blog posts after I’ve completed the project (or at 
 <a href= "https://shrinathrao97.github.io/blog/WIP-AstralChain1">Blog 1</a>
 <a href= "https://shrinathrao97.github.io/blog/WIP-AstralChain2">Blog 2</a>
 <a href= "https://shrinathrao97.github.io/blog/WIP-AstralChain3">Blog 3</a>
+
+This folder will hold the latest build! <a href = "https://drive.google.com/drive/folders/1lGjCLNFtpDqu42tJ2N2BelPF5XCbgcOx?usp=sharing">Download</a> it to see where I'm at!
