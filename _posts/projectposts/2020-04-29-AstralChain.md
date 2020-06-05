@@ -14,6 +14,6 @@ This project has me trying to do something similar, except I wanted to take that
 
 I normally try to write my blog posts after I’ve completed the project (or at least in Cypher’s case, certain parts of it). This time, however, since this is a project that requires quite a bit of polish to even resemble something that feels good (and I’ve got nothing better to be doing in these dark times), I’ve decided to take a far more incremental approach to update the blog. Expect updates frequently!
 
-<a href= "https://shrinathrao97.github.io/blog/WIP-AstralChain1">WIP 1</a>
-<a href= "https://shrinathrao97.github.io/blog/WIP-AstralChain2">WIP 2</a>
-<a href= "https://shrinathrao97.github.io/blog/WIP-AstralChain3">WIP 3</a>
+<a href= "https://shrinathrao97.github.io/blog/WIP-AstralChain1">Blog 1</a>
+<a href= "https://shrinathrao97.github.io/blog/WIP-AstralChain2">Blog 2</a>
+<a href= "https://shrinathrao97.github.io/blog/WIP-AstralChain3">Blog 3</a>
