@@ -28,9 +28,10 @@ feature_row:
 
 Hiya, my friends call me Shri!
 
-With a passion for both tech and gaming, I just finished degrees in both ATEC (Arts and Technology) and Computer Science from the University of Texas at Dallas.
-I am looking for work in either the engineering or the game industry so I can build up my dream career in creative programming, leveraging both hemispheres of my passion. This blog site is my own little corner of the internet where I have showcased some excerpts of my work. Thanks for visiting - do stick around and I hope you enjoy my projects and views on game design and programming!
+This blog holds projects that I have worked on and am working on. Most posts on this blog are relatively old as I have since been working at Uhnder Inc. as a visualization engineer. 
 
--Shri (Kshaya in Game Land)
+There I help visualize radar output and sensor ROS data on a tool called ProViz (https://proviz.online/) and other interal visualization tools, and as such have not had much time for personal projects since
+
+-Shri
 
 {% include feature_row %}
