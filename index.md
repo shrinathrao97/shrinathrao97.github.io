@@ -30,7 +30,7 @@ Hiya, my friends call me Shri!
 
 This blog holds projects that I have worked on and am working on. Most posts on this blog are relatively old as I have since been working at Uhnder Inc. as a visualization engineer. 
 
-There I help visualize radar output and sensor ROS data on a tool called ProViz (https://proviz.online/) and other interal visualization tools, and as such have not had much time for personal projects since
+There I help visualize radar output and sensor ROS data on a tool called ProViz (https://proviz.online/) and other internal visualization tools, and as such have not had much time for personal projects since
 
 -Shri
 
